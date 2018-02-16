@@ -1,0 +1,4 @@
+myDiv.children[1].style="width: 81.7708%";
+myDiv.className += myDiv.className ? ' jw-flag-fullscreen' : 'jw-flag-fullscreen'
+var mykeystone = document.getElementById("keystone-svod");
+mykeystone.children[0].children[1].children[1].style="background-color: black; color: white;";
